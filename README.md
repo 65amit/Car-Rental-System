@@ -17,16 +17,16 @@ Java (Core Java, OOP)
 
 Console-based UI
 
-Data structures: Lists (ArrayList)
+Data Structures: Lists (ArrayList)
 
 🚀 Getting Started
-1. Clone the Repository
+Clone the Repository
 bash
 Copy
 Edit
 git clone https://github.com/65amit/Car-Rental-System.git
 cd Car-Rental-System
-2. Compile and Run
+Compile and Run
 Make sure you have Java installed. Then compile and run the program using:
 
 bash
@@ -35,13 +35,13 @@ Edit
 javac src/Main.java
 java src.Main
 📂 Project Structure
-css
+text
 Copy
 Edit
 Car-Rental-System/
 │
 ├── src/
-│   └── Main.java           # Main application file
+│   └── Main.java         # Main application file
 ├── .gitignore
 ├── Car_Rental_System.iml
 └── README.md
